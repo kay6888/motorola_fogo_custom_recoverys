@@ -16,3 +16,4 @@ once booted and you enjoy the recovry find the option flash current recovey
 and there u got have fun, flash at your own risk gl.
 
 Link:  https://github.com/kay6888/Lazy_Action-Recoverys-Builder/releases
+OFOX Link: https://github.com/kay6888/OrangeFox-Recovery-Builder-2024/releases
